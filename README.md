@@ -24,22 +24,23 @@ Data Breakdown: Dataset describes traffic crash parameters, including date of cr
 
 ## Project Intro/Objective
 - We wanted to find out if a crash was a "Rear End" crash or not. So classifying this would require us to use DecisionTreeClassifier and RandomForestClassifer models to distinguish between the two. 
-'TRAFFIC_CONTROL_DEVICE',
-'DEVICE_CONDITION', 
-'WEATHER_CONDITION', 
-'LIGHTING_CONDITION',
-'TRAFFICWAY_TYPE', 
-'ALIGNMENT', 
-'ROADWAY_SURFACE_COND', 
-'ROAD_DEFECT',
-'INTERSECTION_RELATED_I', 
-'NOT_RIGHT_OF_WAY_I', 
-'HIT_AND_RUN_I',
-'PRIM_CONTRIBUTORY_CAUSE', 
-'SEC_CONTRIBUTORY_CAUSE', 
-'DOORING_I',
-'WORK_ZONE_I', 
-'WORK_ZONE_TYPE'
+      
+      'TRAFFIC_CONTROL_DEVICE',
+      'DEVICE_CONDITION', 
+      'WEATHER_CONDITION', 
+      'LIGHTING_CONDITION',
+      'TRAFFICWAY_TYPE', 
+      'ALIGNMENT', 
+      'ROADWAY_SURFACE_COND', 
+      'ROAD_DEFECT',
+      'INTERSECTION_RELATED_I', 
+      'NOT_RIGHT_OF_WAY_I', 
+      'HIT_AND_RUN_I',
+      'PRIM_CONTRIBUTORY_CAUSE', 
+      'SEC_CONTRIBUTORY_CAUSE', 
+      'DOORING_I',
+      'WORK_ZONE_I', 
+      'WORK_ZONE_TYPE'
   
 ## Project Findings:
 - The most important feature that played a big role in classifying was 'PRIM_CONTRIBUTORY_CAUSE'.
