@@ -109,5 +109,6 @@ Data Breakdown: Dataset describes traffic crash parameters, including date of cr
 |---------|-----------------|
 |
 |[Anh Phan](https://github.com/anhbiphan)
+|[Jesus Fuerte](https://github.com/jesus12279)
 
 
