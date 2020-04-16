@@ -18,7 +18,7 @@ Data Breakdown: Dataset describes traffic crash parameters, including date of cr
 - Effective Googling for assistance.
 - Experiementing with the code to check if they worked correctly. 
 #### Recommendations for further developments:
-- Grab Vehicle Dataset and Driver/Passenger Dataset. Combinding them with our Traffic Crash dataset. 
+- Grab Vehicle Dataset and Driver/Passenger Dataset. Combining them with our Traffic Crash dataset. 
 - Binning and Clustering data in the future to find location of crashes.
 - Improve model.
 
