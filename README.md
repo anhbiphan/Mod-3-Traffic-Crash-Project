@@ -4,6 +4,9 @@
 # Chicago Traffic-Crash Data Link:
 https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if
 
+## Project Presentation:
+https://www.canva.com/design/DAD5dJB86ec/DoQp3RyGoAhzPcNNPxh7qg/view?utm_content=DAD5dJB86ec&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
 ### Project Details:
 Data Source: Based on Chicago Police Department Crash Dataset. 
 Data Breakdown: Dataset describes traffic crash parameters, including date of crashes, street name, weather condition, posted speed limit, traffic way type, types of road defects etc. 
